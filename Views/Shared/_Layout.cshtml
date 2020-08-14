@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+
+    @RenderSection("styles", false)
+    @Html.Partial("~/Views/Shared/_head_css.cshtml")
+
+</head>
+<body class="nav-md">
+ 
+    <div class="container body">
+        <div class="main_container">
+            @Html.Partial("~/Views/Shared/_topbar.cshtml")
+            @Html.Partial("~/Views/Shared/_sidebar.cshtml")
+        </div>
+
+
+
+        @RenderBody()
+
+
+
+
+
+        @RenderSection("Scripts", required: false)
+    </div>
+
+</body>
+</html>

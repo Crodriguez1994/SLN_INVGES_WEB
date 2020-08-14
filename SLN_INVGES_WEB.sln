@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SLN_INVGES_WEB", "SLN_INVGES_WEB.csproj", "{B560A5F8-A044-41BF-89A7-DFDEF179AAFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B560A5F8-A044-41BF-89A7-DFDEF179AAFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B560A5F8-A044-41BF-89A7-DFDEF179AAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B560A5F8-A044-41BF-89A7-DFDEF179AAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B560A5F8-A044-41BF-89A7-DFDEF179AAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A36D724-B9B6-4210-82D7-DDD79647DCDA}
+	EndGlobalSection
+EndGlobal
